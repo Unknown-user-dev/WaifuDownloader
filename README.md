@@ -2,7 +2,7 @@
 ### A WaifuDownloader in Dart !
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1118397476202881034/1123226526536708167/waifu_image_2.png">
+  <img src="https://cdn.waifu.im/6645.png">
 </p>
 
 ```
