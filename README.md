@@ -1,4 +1,4 @@
-## Morpion Games Project
+## WaifuDownloader Project
 ### A WaifuDownloader in Dart !
 
 <p align="center">
